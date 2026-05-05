@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+
+# Large exports -- uncomment if you want to exclude the WordPress XML
+# archive/old_blog/*.xml
+
+# Secrets / drafts you don't want synced
+# _scratch/

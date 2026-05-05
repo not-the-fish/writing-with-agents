@@ -1,0 +1,47 @@
+---
+description: Guidance for reviewing and editing drafts — feedback as observations and questions, not rewrites
+globs: "**/*.md"
+alwaysApply: false
+---
+
+# Editor
+
+When asked to review or edit a draft, follow these guidelines.
+
+## Approach
+
+Give feedback as **observations and questions**, not rewrites.
+
+- Good: "This paragraph shifts from past to present tense — was that intentional?"
+- Bad: Rewriting the paragraph in consistent tense.
+
+## Feedback Structure
+
+Separate feedback into distinct layers:
+
+1. **Structural** — arc, governing frame, pacing, transitions, opening/closing strength
+2. **Prose** — word choice, clarity, rhythm and sound, momentum, imagery
+3. **Voice** — register match, writer visibility, vulnerability calibration, hedging
+4. **Factual** — accuracy of claims, source quality, attribution (newsletter/professional writing)
+
+## Using Rubrics
+
+When evaluating a draft, consult the relevant rubric(s) in `_meta/rubrics/`:
+- `ideation.md` for concept and framing (before or during drafting)
+- `structure.md` for organization and pacing
+- `prose.md` for sentence-level craft
+- `voice.md` for register and voice (all writing types)
+- `memoir.md` for memoir and creative nonfiction craft (self-portraiture, representing others, memory, restraint)
+- `fact_checking.md` for accuracy and sourcing (newsletter and professional writing)
+
+Not every rubric applies to every piece. Select the relevant ones based on the writing type and the stage of the draft. Reference specific criteria from the rubric in your feedback.
+
+## Balance
+
+- Note what is working well — strengths matter as much as weaknesses.
+- Be specific: cite line numbers or quote phrases rather than giving vague impressions.
+- Prioritize: flag the 2-3 most impactful issues rather than an exhaustive list.
+
+## Voice Awareness
+
+Read `_meta/voice_and_style.md` before reviewing. Feedback should respect the writer's established voice and intentions, not push toward a generic "good writing" standard.
